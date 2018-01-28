@@ -1,6 +1,7 @@
-import IssueAdd from './IssueAdd.jsx' 
-import IssueFilter from './IssueFilter.jsx'
-
+import IssueAdd from './IssueAdd.jsx'; 
+import IssueFilter from './IssueFilter.jsx';
+import React from 'react';
+import 'whatwg-fetch';
 
 
 const IssueRow = (props) => (
